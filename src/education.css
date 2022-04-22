@@ -1,0 +1,22 @@
+.University-Name {
+  font-family: "Ubuntu";
+  color: red;
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+
+.University-Degree {
+  font-family: 0.8rem;
+  font-weight: 800;
+  font-family: "Ubuntu";
+  color: #1c1c1c;
+  text-transform: uppercase;
+}
+.Year-Passedout {
+  font-family: monospace;
+  font-size: 1rem;
+  background: var(--standout-color);
+  color: #1c1c1c;
+  padding: 10px 10px;
+  border-radius: 20px;
+}
